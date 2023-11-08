@@ -13,7 +13,7 @@ if (isset($_POST['estado']) && isset($_POST['modelo']) && isset($_POST['tamanho'
     file_put_contents("escolhas.txt", $escolhas);
     
     // Redirecionar para o link do WhatsApp com os parâmetros
-    $link_whatsapp = "https://api.whatsapp.com/send?phone=+5577998385196&text=Ol%C3%A1%2C%20eu%20gostaria%20de%20falar%20sobre%20o%20$modelo%20$estado%2C%20com%20capacidade%20de%20$tamanho%20e%20pretendo%20pagar%20no%20$pagamento%20";
+    $link_whatsapp = "https://api.whatsapp.com/send?phone=+5577998347542&text=Ol%C3%A1%2C%20eu%20gostaria%20de%20falar%20sobre%20o%20$modelo%20$estado%2C%20com%20capacidade%20de%20$tamanho%20e%20pretendo%20pagar%20no%20$pagamento%20";
     header("Location: $link_whatsapp");
     exit();
 }
