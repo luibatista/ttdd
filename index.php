@@ -22,31 +22,28 @@
 	<div class="container">
 		
         <div class="card-iphone">
-			<div style="background-image:url('imagens/iphone11.jpg');" class="img-iphone"></div>
-			<div class="info-iphone">
-				<h2>Apple iPhone 11</h2>
-				<p>Iphone 11 e 11 pro max</p>
-				<a class="btn1" href="detalhes.php?id=iphone11">Mais Detalhes</a>
-			</div>
-		</div>
+    <div class="info-iphone">
+        <h2>Apple iPhone 11</h2>
+        <p>Iphone 11 e 11 pro max</p>
+        <a class="btn1" href="detalhes.php?id=iphone11">Mais Detalhes</a>
+    </div>
+</div>
 
-        <div class="card-iphone">
-			<div style="background-image:url('imagens/i14.jpg');" class="img-iphone"></div>
-			<div class="info-iphone">
-				<h2>Apple iPhone 14</h2>
-				<p>Iphone 14 e 14 pro max</p>
-				<a class="btn1" href="detalhes.php?id=iphone14">Mais Detalhes</a>
-			</div>
-		</div>
+<div class="card-iphone">
+    <div class="info-iphone">
+        <h2>Apple iPhone 14</h2>
+        <p>Iphone 14 e 14 pro max</p>
+        <a class="btn1" href="detalhes.php?id=iphone14">Mais Detalhes</a>
+    </div>
+</div>
 
-        <div class="card-iphone">
-			<div style="background-image:url('imagens/ip13.jpg');" class="img-iphone"></div>
-			<div class="info-iphone">
-				<h2>Apple iPhone 13</h2>
-				<p>Iphone 13 e 13 pro max</p>
-				<a class="btn1" href="detalhes.php?id=iphone13">Mais Detalhes</a>
-			</div>
-		</div>
+<div class="card-iphone">
+    <div class="info-iphone">
+        <h2>Apple iPhone 13</h2>
+        <p>Iphone 13 e 13 pro max</p>
+        <a class="btn1" href="detalhes.php?id=iphone13">Mais Detalhes</a>
+    </div>
+</div>
 
 	<div class="clear"></div>
 	</div>

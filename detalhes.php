@@ -23,9 +23,11 @@ include('header.php');
 	<div class="container">
         <div class="coluna-visual">
             <div class="breadcrumbs">
-                <a href="index.php">HOME</a><span>></span>
-                <a href="catalogo.php">CATÁLOGO</a><span>></span>
-                <a href="#"><?php echo strtoupper($p['titulo']); ?></a>
+                 <a href="index.php">HOME</a>
+                 <span>></span>
+                 <a href="catalogo.php">CATÁLOGO</a>
+                 <span>></span>
+                 <a href="#"><?php echo strtoupper($p['titulo']); ?></a>
             </div>
             
             <div style="background-image:url('<?php echo $p['imagens'][0]; ?>');" class="foto-destaque"></div>
