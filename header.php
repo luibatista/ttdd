@@ -21,8 +21,8 @@
 		<ul>
 			<li><a href="index.php">Home</a></li>
 			<li><a href="catalogo.php">Catálogo</a></li>
-			<li><a href="sobre.html">Sobre</a></li>
-			<li><a href="contato.html">Contato</a></li>
+			<li><a href="sobre.php">Sobre</a></li>
+			<li><a href="contato.php">Contato</a></li>
 		</ul>
 	</nav>
 
@@ -30,8 +30,8 @@
 		<ul class="nav">
 			<li><a href="index.php">Home</a></li>
 			<li><a href="catalogo.php">Catálogo</a></li>
-			<li><a href="sobre.html">Sobre</a></li>
-			<li><a href="contato.html">Contato</a></li>
+			<li><a href="sobre.php">Sobre</a></li>
+			<li><a href="contato.php">Contato</a></li>
 		</ul>
 	</nav>
 
