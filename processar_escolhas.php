@@ -10,7 +10,7 @@ if (isset($_POST['estado']) && isset($_POST['modelo']) && isset($_POST['tamanho'
     
     $texto_codificado = urlencode($texto_msg);
     
-    $link_whatsapp = "https://api.whatsapp.com/send?phone=+5577998347542&text=$texto_codificado";
+    $link_whatsapp = "https://api.whatsapp.com/send?phone=+5577"NUEMRO DO WHATSAPP"2&text=$texto_codificado";
     
     header("Location: $link_whatsapp");
     exit();
@@ -18,4 +18,5 @@ if (isset($_POST['estado']) && isset($_POST['modelo']) && isset($_POST['tamanho'
     header("Location: catalogo.php");
     exit();
 }
+
 ?>
